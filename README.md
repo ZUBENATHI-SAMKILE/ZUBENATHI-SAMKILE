@@ -1,7 +1,7 @@
 # Hi there, I'm Zubenathi Samkile
 
 Welcome to my GitHub Profile!
-I`m passinate about building ** functional, user friendly, and imapctful applications** using modern technologies. My work blends creativity, problem solving, and clean code to deliver solution that matter.
+I`m passinate about building **functional, user friendly, and imapctful applications** using modern technologies. My work blends creativity, problem solving, and clean code to deliver solution that matter.
 
  About Me
 - 💻 Currently focused on **Web Development, Databases, Full-Stack Applications, and Application Development**  
