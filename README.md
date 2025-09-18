@@ -6,7 +6,7 @@ I`m passinate about building **functional, user friendly, and imapctful applicat
  About Me
 - 💻 Currently focused on **Web Development, Databases, Full-Stack Applications, and Application Development**  
 - 📚 Exploring **Machine Learning, NLP, and AI-driven solutions**  
-- 🛠️ Experienced in **building systems that are clean and easy to understand or follow**  
+- 🛠️ Experienced in **building systems that have a clean code and easy to understand or follow**  
 - 🎯 Goal: To keep growing as a software engineer and developer while creating **scalable and practical tools** 
 
 ---
