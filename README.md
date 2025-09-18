@@ -21,3 +21,7 @@ I’m passionate about building **functional, user-friendly, and impactful appli
 - 💼 LinkedIn: https://www.linkedin.com/in/zubenathi-samkile    
 - 📧 Email: samkilezubenathi@gmail.com / zubenathi.mmiii@gmail.com
 
+## Currently 
+- updating my past projects and deploying them
+- since i am doing my final year and willing to go for internships in the year of 2026
+  
