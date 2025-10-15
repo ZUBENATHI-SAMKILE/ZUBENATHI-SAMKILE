@@ -17,6 +17,7 @@ I`m passinate about building **functional, user friendly, and imapctful applicat
 ## Connect With Me  
 - LinkedIn: https://www.linkedin.com/in/zubenathi-samkile
 - Email: samkilezubenathi@gmail.com / zubenathi.mmiii@gmail.com
+- Number: 0638898683
 
 ## Currently busy
 - updating my past projects and deploying them
