@@ -21,5 +21,4 @@ I`m passinate about building **functional, user friendly, and imapctful applicat
 
 ## Currently busy
 - updating my past projects and deploying them
-- since i am doing my final year and willing to go for internships in the year of 2026
   
