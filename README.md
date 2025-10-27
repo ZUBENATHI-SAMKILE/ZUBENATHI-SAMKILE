@@ -8,17 +8,17 @@
 ## About me
 I'm passionate about building functional, user-friendly, and impactful applications using modern technologies. My work blends creativity, problem solving, and clean code to deliver solutions that matter.
 
-- 🔭 Currently focused on: Web development, Databases, Full‑Stack and Application Development.  
-- 🌱 Exploring: Machine Learning, NLP, and AI‑driven solutions.  
-- ✅ Strengths: clean, maintainable code; practical, scalable systems; developer-friendly APIs and UX.  
-- 🎯 Goal: Grow as a software engineer while building practical tools that solve real problems.
+-  Currently focused on: Web development, Databases, Full‑Stack and Application Development.  
+-  Exploring: Machine Learning, NLP, and AI‑driven solutions.  
+-  Strengths: clean, maintainable code; practical, scalable systems; developer-friendly APIs and UX.  
+-  Goal: Grow as a software engineer while building practical tools that solve real problems.
 
-Currently busy updating my past projects and deploying them.
+- Currently busy updating my past projects and deploying them.
 
 ---
 
 ## Tech Stack
-Languages: Python · JavaScript · C# · Java · SQL  
+Languages: Python · JavaScript · C# · Java   
 Frameworks & Tools: Flask · React · Node.js · Express · SQLite · MySQL  
 Other: Git · GitHub · REST APIs · OOP · Responsive Design · Authentication Systems
 
@@ -26,7 +26,7 @@ Other: Git · GitHub · REST APIs · OOP · Responsive Design · Authentication 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
 
 ---
 
@@ -43,6 +43,6 @@ Other: Git · GitHub · REST APIs · OOP · Responsive Design · Authentication 
 - LinkedIn: https://www.linkedin.com/in/zubenathi-samkile  
 - Email: samkilezubenathi@gmail.com / zubenathi.mmiii@gmail.com
 
-(Optional) Phone: 063‑889‑8683 — consider whether you want this public on GitHub.
+- Phone: 063‑889‑8683 
 
-Thanks for visiting — feel free to follow ⭐
+Thanks for visiting — feel free to follow 
