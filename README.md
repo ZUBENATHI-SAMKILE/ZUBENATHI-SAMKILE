@@ -15,7 +15,7 @@ I'm passionate about building functional, user-friendly, and impactful applicati
 -  Strengths: clean, maintainable code; practical, scalable systems; developer-friendly APIs and UX.  
 -  Goal: Grow as a software engineer while building practical tools that solve real problems.
 
-  ## urrently busy updating my past projects and deploying them.
+  ## currently busy updating my past projects and deploying them.
 
 ---
 
