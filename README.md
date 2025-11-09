@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubenathi-samkile)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samkilezubenathi@gmail.com)
-[![Website](https://img.shields.io/badge/portfolio-ff69b4)](https://your-portfolio.example)
+[![Website](https://img.shields.io/badge/portfolio-ff69b4)](https://ZUBENATHI-SAMKILE.github.io/PORTFOLIO)
 
 
 ---
