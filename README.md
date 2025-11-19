@@ -44,4 +44,4 @@ Other: Git · GitHub · REST APIs · OOP · Responsive Design · Authentication 
 
 - Phone: 063‑889‑8683 
 
-Thanks for visiting — feel free to follow 
+Thanks for visiting, feel free to follow.
