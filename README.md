@@ -31,10 +31,8 @@ Other: Git · GitHub · REST APIs · OOP · Responsive Design · Authentication 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
 
 ---
-
 ## GitHub Stats
-[![Zubenathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZUBENATHI-SAMKILE&show_icons=true&theme=radical)](https://github.com/ZUBENATHI-SAMKILE)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZUBENATHI-SAMKILE&layout=compact&theme=radical)](https://github.com/ZUBENATHI-SAMKILE)
+<a href="https://github.com/ZUBENATHI-SAMKILE"> <img src="https://github-readme-stats.vercel.app/api?username=ZUBENATHI-SAMKILE&show_icons=true&theme=radical" /> </a> <a href="https://github.com/ZUBENATHI-SAMKILE"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZUBENATHI-SAMKILE&layout=compact&theme=radical" /> </a>
 
 ---
 
