@@ -33,9 +33,8 @@ Other: Git · GitHub · REST APIs · OOP · Responsive Design · Authentication 
 ---
 ## GitHub Stats
 
-![Zubenathi's GitHub stats](https://github-readme-stats-mirror.vercel.app/api?username=ZUBENATHI-SAMKILE&show_icons=true&theme=radical)
+![Zubenathi's GitHub stats](https://github-readme-stats-mirror.vercel.app/api?username=ZUBENATHI-SAMKILE&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=ZUBENATHI-SAMKILE&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=ZUBENATHI-SAMKILE&layout=compact&theme=radical)
 
 
 ---
