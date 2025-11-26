@@ -32,7 +32,11 @@ Other: Git · GitHub · REST APIs · OOP · Responsive Design · Authentication 
 
 ---
 ## GitHub Stats
-<a href="https://github.com/ZUBENATHI-SAMKILE"> <img src="https://github-readme-stats.vercel.app/api?username=ZUBENATHI-SAMKILE&show_icons=true&theme=radical" /> </a> <a href="https://github.com/ZUBENATHI-SAMKILE"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZUBENATHI-SAMKILE&layout=compact&theme=radical" /> </a>
+
+![Zubenathi's GitHub stats](https://github-readme-stats-mirror.vercel.app/api?username=ZUBENATHI-SAMKILE&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=ZUBENATHI-SAMKILE&layout=compact&theme=radical)
+
 
 ---
 
