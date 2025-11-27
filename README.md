@@ -20,7 +20,7 @@ I'm passionate about building functional, user-friendly, and impactful applicati
 ---
 
 ## Tech Stack
-Languages: Python · JavaScript · C# · Java   
+Languages: Python · JavaScript · Java   
 Frameworks & Tools: Flask · React · Node.js · Express · SQLite · MySQL  
 Other: Git · GitHub · REST APIs · OOP · Responsive Design · Authentication Systems
 
