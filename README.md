@@ -32,10 +32,6 @@ Other: Git · GitHub · REST APIs · OOP · Responsive Design · Authentication 
 
 ## GitHub Stats
 
-![ZUBENATHI-SAMKILE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZUBENATHI-SAMKILE&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&custom_title=ZUBENATHI-SAMKILE's%20GitHub%20Stats)
-
-![ZUBENATHI-SAMKILE's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZUBENATHI-SAMKILE&hide_border=true&date_format=j%20M%20y)
-
 **Metrics:**
 - Contribution Count: ![Contribution Count](https://img.shields.io/badge/Contributions-1234-blue)
 - Current Streak: ![Current Streak](https://img.shields.io/badge/Streak-30%20Days-brightgreen)
